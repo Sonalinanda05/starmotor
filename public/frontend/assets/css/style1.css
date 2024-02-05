@@ -1,0 +1,413 @@
+@media only screen and (max-width:767px) and (min-width:320px){
+ body{
+    overflow-x: hidden;
+ }
+    .uper-sec_main_box{
+        height: 120px;
+        margin-top: -20px;
+    }
+    .loginbutton{
+        height: auto;
+        width: auto;
+    }
+    .sbtn{
+        width: 5px;
+        margin-right: 90px;
+        margin-top: -60px;
+        
+    }
+    .sbtn .button{
+        width: 100px;
+       
+        height: 35px;
+        margin-bottom: -14px;
+        padding: 0px 0px;
+        
+    }
+    .sbtn select{
+        width: 100px; 
+        font-size: 15px;
+    }
+    .btn{
+        padding: 5px 5px;
+    }
+    .bannerTxt{
+       margin-left: 80px;
+      
+    }
+    .bannerImg{
+        margin-left: 40px;
+    }
+    .bannerImg img{
+        width: 200px;
+    }
+    .about-sec-main{
+        display: grid;
+    }
+    .fw-normal{
+        text-align: justify;
+    }
+   
+    .about-sec-left{
+        width: 350px;
+        margin-left: -40px;
+    }
+    .footer-top{
+        margin-top: 400px;
+    }
+    .foter_sec_main{
+        display: grid;
+    }
+   section{
+    width: 100%;
+   }
+   .mainContactSection{
+    width: 100%;
+   }
+   #loading-container{
+    width: 100%;
+    margin: 0 auto;
+   }
+   #loading-container img{
+    height: 100px;
+    width: 100px;
+   }
+   .form .input-box{
+    margin: none;
+    width: 100%;
+   }
+   .modal{
+    width: 390px;
+    position: absolute;
+    padding-right: 0px;
+    margin-left: 0px;
+   }
+   .input-box input{
+    width: 300px;
+   }
+   .form .btnn{
+    width: 300px;
+   }
+ 
+ 
+   .bx{
+    display: block;
+    font-size: 20px;
+   }
+   .form-inline{
+    display: none;
+   }
+   .collapse{
+    display: none;
+   }
+   .swiae_mobile{
+    display: block;
+  }
+  .nav-link{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+.show li{
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(51, 54, 54);
+}
+.dropdown-divider {
+    margin:  0rem 0;
+}
+.pic{
+    height: 50px;
+}
+.pic img{
+    
+    width: 150px;
+    object-fit: cover;
+}
+.footer-top h3{
+    display: none;
+}
+.footer-top p{
+    display: none;
+}
+.footer-top-button{
+    display: flex;
+    margin-top: -60px;
+    /* margin-left: -5px; */
+    /* margin-right: 5px; */
+    gap: 5px;
+}
+.footer-top-button .btn1_all{
+    height: 50px;
+    width: 110px;
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+}
+.contnt-link{
+    /* position: absolute; */
+    margin-left: -230px;
+   
+}
+.contnt-link ul{
+    display: flex;
+}
+.foter_sec_main_box_fig img {
+    width: 36%;
+}
+.foter_sec_main_box p{
+    font-size: 10px;
+}
+.cntr{
+    margin-left: -3px;
+}
+.cpyrit_sec{
+    display: grid;
+}
+.cpyrit_sec span{
+ margin-left: -15px;
+}
+.cpyrit_sec span a{
+    font-size: 15px;
+}
+.viewall{
+    border: 1px solid #fff;
+    color: #fff;
+    margin-left: 10px ;
+}
+.uper-sec .row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.uper-sec .col-lg-12 {
+    padding: 0;
+}
+.uper-sec .col-md-12{
+    padding: 0;
+}
+.add-rate .col-div-12{
+    padding: 0;
+}
+.about-sec .row{
+    padding: 0;
+}
+.testimonial .row{
+    margin-left: 0;
+    margin-right: 0;
+}
+.testimonial .col-md-6 .col-lg-6{
+    padding: 0;
+}
+
+.modal-content{
+    padding-right: 0 !important;
+}
+.swiae_menu{
+    width: 400px;
+}
+
+}
+@media only screen and (max-width:376px) {
+    .sbtn{
+        width: 5px;
+        margin-right: 70px;
+        margin-top: -60px;
+       
+    }
+    .sbtn .button{
+        width: 100px;
+       margin-right: 20px;
+        height: 35px;
+        margin-bottom: -14px;
+        padding: 0px 0px;
+        
+    }
+    .sbtn select{
+        width: 90px; 
+        font-size: 15px;
+    }    
+    .uper-sec_main_box_cnt{
+        margin-left: -16px;
+    }
+    .swiae_menu{
+        width: 390px;
+    }
+    .modal{
+        width: 370px;
+        position: absolute;
+        padding-right: 0px;
+        margin-left: 0px;
+       }
+       .input-box input{
+        width: 300px;
+        margin-left: -10px;
+       }
+       .form .btnn{
+        width: 300px;
+        margin-left: -10px;
+       }
+       
+}
+@media only screen and (max-width:431px) {
+    .swiae_menu{
+        width: 445px;
+    }
+    .modal{
+        width: 370px;
+        position: absolute;
+        padding-right: 0px;
+        margin-left: 30px;
+       }
+       .input-box input{
+        width: 300px;
+        margin-left: -10px;
+       }
+       .form .btnn{
+        width: 300px;
+        margin-left: -10px;
+       }
+}
+@media only screen and (max-width:415px) {
+    .swiae_menu{
+        width: 425px;
+    }
+    .modal{
+        width: 370px;
+        position: absolute;
+        padding-right: 0px;
+        margin-left: 30px;
+       }
+       .input-box input{
+        width: 300px;
+        margin-left: -10px;
+       }
+       .form .btnn{
+        width: 300px;
+        margin-left: -10px;
+       }
+}
+@media only screen and (max-width:361px) {
+    .swiae_menu{
+        width: 380px;
+    }
+    .modal{
+        width: 370px;
+        position: absolute;
+        padding-right: 0px;
+        margin-left: 10px;
+       }
+       .input-box input{
+        width: 300px;
+        margin-left: -20px;
+       }
+       .form .btnn{
+        width: 300px;
+        margin-left: -20px;
+       }
+}
+@media only screen and (max-width:1281px){
+    .bannerTxt{
+        margin-left: 80px;
+       
+     }
+     .bannerImg{
+         margin-left: -40px;
+     }
+     .bannerImg img{
+         width: 350px;
+     }
+   
+    .contnt-link ul{
+        display: flex;
+        margin-left: -40px;
+    }
+}
+@media screen and (max-width:1025px){
+    
+    .loginbutton{
+        height: auto;
+        width: auto;
+    }
+    .bannerTxt{
+        margin-left: -2px;
+        font-size: 20px;
+     }
+     .bannerImg img{
+         width: 350px;
+     }
+   
+    .contnt-link ul{
+        display: flex;
+        margin-left: -40px;
+    }
+    .swiae_menu{
+        display: none;
+    }
+
+    .footer-top-button{
+        display: flex;
+        margin-top: -60px;
+        
+        gap: 5px;
+    }
+    .footer-top-button .btn1_all{
+        height: 50px;
+        width: 150px;
+        /* font-size: 15px; */
+        justify-content: center;
+        text-align: center;
+    }
+    .contnt-link{
+        /* position: absolute; */
+        margin-left: -70px;
+       
+    }
+    .contnt-link ul{
+        display: flex;
+    }
+    .btn{
+        padding: 5px 5px;
+    }
+}
+@media only screen and (max-width:541px){
+    .bannerTxt{
+        margin-left: 120px;
+       
+     }
+     .bannerImg{
+         margin-left: 80px;
+     }
+     .bannerImg img{
+         width: 350px;
+     }
+     .about-sec-left{
+        width: 350px;
+        margin-left: 40px;
+    }
+    .swiae_menu{
+        width: 553px;
+    }
+    .modal{
+        width: 400px;
+        position: absolute;
+        padding-right: 0px;
+        margin-left: 70px;
+       }
+       .cpyrit_sec span{
+        margin-left: 30px;
+       }
+       .cpyrit_sec span a{
+           font-size: 15px;
+       }
+       .cpyrit_sec p{
+        margin-left: 80px;
+       }
+       .cntr{
+        margin-left: 100px;
+       }
+}
